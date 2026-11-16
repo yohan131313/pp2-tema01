@@ -131,3 +131,4 @@ if __name__ == "__main__":
     manager.save_data()
     manager.load_data()
     print("\n저장된 내역 수:", len(manager.get_records()))
+    
